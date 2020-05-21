@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Android Deck</string>
     <string name="hello">Witaj Eibharze!</string>
+    <string name="click">Klikaj!</string>
 </resources>
